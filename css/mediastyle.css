@@ -1,0 +1,336 @@
+ @charset "utf-8";
+/* CSS Document */
+
+
+/***************************************** (950px)  ******************************************/
+@media (max-width:950px){
+
+
+
+#dondeFunciona{
+	height: 600px;
+}
+
+
+			#contenedorIMG2{
+				width: 100%;
+				height: 460px;
+				float:none;	
+			}
+
+
+			#contenedorLetras2{
+				width: 100%;
+				height: auto;
+				float:none;
+				text-align: center;
+				padding-top: 30px;
+			}
+
+
+}	
+/***************************************** FIN (950px) ****************************************************/	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/***************************************** (770px)  ******************************************/
+@media (max-width:770px){
+
+
+
+.imgmundo{
+	background-color: #0078d7;
+}
+
+			#logoFenet{
+				height: 150px;
+			}
+
+
+
+
+			#video{
+				width: 400px;
+				height: auto;
+			}
+
+
+
+
+#terminos{
+	background-color: #d1cfd0;
+}
+
+
+
+
+
+			#ContenedorMenufoother{
+				width: 250px;
+				float: right;
+			}
+
+
+
+
+
+#textAbout{ 
+	width: 100%;
+	float: none;
+ }
+
+#imgAbout{
+	width: 100%;
+	height: 400px;
+	float: none;
+}
+}
+/***************************************** FIN (770px) ****************************************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/***************************************** FIN (720px) ****************************************************/
+@media (max-width:720px){
+
+		
+
+
+			#video{
+				width: 100%;
+			}
+
+
+#conviertete{
+	height: auto;
+}
+
+			#contenedorLetras{
+				width: 100%;
+				float:none;
+				padding-top: 100px;	
+			}
+
+
+			#contenedorIMG{
+				width: 100%;
+				float:none;
+				text-align: center;
+				padding-bottom: 50px;
+			}
+
+
+
+
+#contenedorFinal{
+	width: 100%;
+	height: auto;
+}
+
+			#contenedorFormulario{
+				width: 100%;
+				float: none;
+				text-align: center;
+
+			}
+
+			#ContenedorMenufoother{
+				width: 100%;
+				text-align: center;
+				float: none;
+				margin-bottom: 50px;
+			}
+
+
+
+			#contenedorIMG2{
+				background-size: 100%;
+			}
+
+
+
+
+
+
+
+.pasoUno{
+	margin-top: 30px;
+	width: 100%;
+	height: 600px;
+	float: none;
+}
+
+.pasoDos{
+	margin-top: 30px;
+	width: 100%;
+	height: 600px;
+	float: none;
+}
+
+.flecha{
+	margin: 50px auto;
+	width: 100px;
+	height: 70px;
+	background-image: url(../img/flecha2.png);
+	background-size: 50%;
+	background-repeat: no-repeat;
+	background-position: center;
+	float: none;
+}
+
+
+.flechaHidden{
+	display: inherit;
+	margin: 50px auto;
+	width: 100px;
+	height: 70px;
+	background-image: url(../img/flecha2.png);
+	background-size: 50%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+
+.textPasos{
+	width: 100%;
+	height: 30%;
+	background-color: none;
+	font-size: 28px;
+	color: white;
+	text-align: center;
+	padding-top: 30px;
+}
+
+.imgPasos{
+	width: 100%;
+	height: 70%;
+	background-color: none;
+	text-align: center;
+}
+
+}
+
+/***************************************** FIN (720px) ****************************************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/***************************************** FIN (400px) ****************************************************/
+@media (max-width:400px){
+
+	#contenedorIMG2{
+				height: 400px;
+			}
+
+
+
+			#video{
+				width: 100%;
+				height: auto;
+			}
+
+
+
+			#contenedorFormulario textarea{
+				width: 100%; 
+				height: 150px; 
+				font-size:20px;
+			}
+
+
+
+.imgmundo{
+	background-image: none;
+}
+
+#solicitarServicios{
+				width: 100%;
+				border-radius: 0px;
+				margin-top: 60px;
+			}
+
+
+
+
+#comoFunciona{
+	height: auto;
+}
+
+.icono{
+				height: 100px;
+				margin-left: 1px;
+				margin-top: 0px;
+
+			}
+
+}
+/***************************************** FIN (400px) ****************************************************/
